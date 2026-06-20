@@ -1,0 +1,9 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages_total": 2014,
+  "m3u8_sources": 20,
+  "missing_baidu_pages": [],
+  "compressed_style_or_script_suspects": []
+}
